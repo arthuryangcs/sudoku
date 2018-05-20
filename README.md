@@ -1,2 +1,2 @@
 # sudoku
-solve sudo with DLX
+solve sudo with DLX.
